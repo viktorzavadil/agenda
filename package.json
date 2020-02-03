@@ -86,6 +86,14 @@
       "max-nested-callbacks": [
         "error",
         5
+      ],
+      "unicorn/no-abusive-eslint-disable": [
+        "off",
+        0
+      ],
+      "eslint-comments/no-unused-disable": [
+        "off",
+        0
       ]
     },
     "envs": [

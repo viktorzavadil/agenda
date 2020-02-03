@@ -15,6 +15,12 @@
 	<br>
 </p>
 
+# Forked from agenda@2.3.0
+
+Reason is implementation of MongoDB connection with Unified Topology Design.
+
+Learn more at https://mongodb.github.io/node-mongodb-native/3.5/reference/unified-topology/.
+
 # Agenda offers
 
 - Minimal overhead. Agenda aims to keep its code base small.
