@@ -1,5 +1,5 @@
 {
-  "name": "agenda",
+  "name": "@engramo/agenda",
   "version": "2.3.0",
   "description": "Light weight job scheduler for Node.js",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/agenda/agenda"
+    "url": "git://github.com/viktorzavadil/agenda"
   },
   "keywords": [
     "job",
@@ -99,5 +99,8 @@
     "envs": [
       "node"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://nexus.odx.cz/repository/engramo/"
   }
 }
